@@ -67,3 +67,9 @@ dkms.conf
 *.js
 *.html
 *.wasm
+
+# macos
+.DS_Store
+
+# cmake
+build/
