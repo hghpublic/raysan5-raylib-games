@@ -1,0 +1,12 @@
+{
+	"folders": [
+		{
+			"path": "..",
+			"name": "root"
+		},
+		{
+			"path": "../retro_maze_3d",
+			"name": "retro_maze_3d"
+		}
+	]
+}

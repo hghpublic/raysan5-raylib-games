@@ -1,0 +1,12 @@
+{
+	"folders": [
+		{
+			"path": "..",
+			"name": "root"
+		},
+		{
+			"path": "../koala_seasons",
+			"name": "koala_seasons"
+		}
+	]
+}

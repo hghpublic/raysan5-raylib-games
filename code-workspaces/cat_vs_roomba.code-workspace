@@ -1,0 +1,12 @@
+{
+    "folders": [
+        {
+            "path": "..",
+            "name": "root"
+        },
+        {
+            "path": "../cat_vs_roomba",
+            "name": "cat_vs_roomba"
+        }
+    ]
+}
